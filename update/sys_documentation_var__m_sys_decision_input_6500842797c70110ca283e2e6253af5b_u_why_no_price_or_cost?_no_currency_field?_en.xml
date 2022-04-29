@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_why_no_price_or_cost?_no_currency_field?" label="Why no price or cost? No currency field? " language="en" table="var__m_sys_decision_input_6500842797c70110ca283e2e6253af5b">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_why_no_price_or_cost?_no_currency_field?</element>
+            <help/>
+            <hint/>
+            <label>Why no price or cost? No currency field? </label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_6500842797c70110ca283e2e6253af5b</name>
+            <plural>Why no price or cost? No currency field? </plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-29 20:19:27</sys_created_on>
+            <sys_id>81b6ccaf97c70110ca283e2e6253af56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Why no price or cost? No currency field? </sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_decision_input_6500842797c70110ca283e2e6253af5b_u_why_no_price_or_cost?_no_currency_field?_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-29 20:19:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

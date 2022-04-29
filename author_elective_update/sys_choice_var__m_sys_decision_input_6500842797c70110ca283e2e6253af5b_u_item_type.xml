@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_item_type" table="var__m_sys_decision_input_6500842797c70110ca283e2e6253af5b" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_item_type</element>
+            <name>var__m_sys_decision_input_6500842797c70110ca283e2e6253af5b</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-29 19:59:47</sys_created_on>
+            <sys_id>c932802b97c70110ca283e2e6253afdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_item_type</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_var__m_sys_decision_input_6500842797c70110ca283e2e6253af5b_u_item_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-29 19:59:47</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_item_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Type 1</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_6500842797c70110ca283e2e6253af5b</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-29 19:59:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0132802b97c70110ca283e2e6253afdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-29 19:59:47</sys_updated_on>
+            <value>type_1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_item_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Type 2</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_6500842797c70110ca283e2e6253af5b</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-29 19:59:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0932802b97c70110ca283e2e6253afdf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-29 19:59:48</sys_updated_on>
+            <value>type_2</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
